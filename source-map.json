@@ -1,0 +1,56 @@
+[
+  {
+    "app": "Phrase Passport",
+    "slug": "phrase-passport",
+    "support_url": "https://tompinataro.github.io/app-support/phrase-passport/",
+    "privacy_url": "https://tompinataro.github.io/app-support/phrase-passport/privacy.html"
+  },
+  {
+    "app": "AI Periodic Table",
+    "slug": "ai-periodic-table",
+    "support_url": "https://tompinataro.github.io/app-support/ai-periodic-table/",
+    "privacy_url": "https://tompinataro.github.io/app-support/ai-periodic-table/privacy.html"
+  },
+  {
+    "app": "Gallery by Pinataro",
+    "slug": "gallery",
+    "support_url": "https://tompinataro.github.io/app-support/gallery/",
+    "privacy_url": "https://tompinataro.github.io/app-support/gallery/privacy.html"
+  },
+  {
+    "app": "Poppie's Journal",
+    "slug": "poppies-journal",
+    "support_url": "https://tompinataro.github.io/app-support/poppies-journal/",
+    "privacy_url": "https://tompinataro.github.io/app-support/poppies-journal/privacy.html"
+  },
+  {
+    "app": "Dear Diary by Pinataro",
+    "slug": "dear-diary",
+    "support_url": "https://tompinataro.github.io/app-support/dear-diary/",
+    "privacy_url": "https://tompinataro.github.io/app-support/dear-diary/privacy.html"
+  },
+  {
+    "app": "Commonplace by Pinataro",
+    "slug": "commonplace",
+    "support_url": "https://tompinataro.github.io/app-support/commonplace/",
+    "privacy_url": "https://tompinataro.github.io/app-support/commonplace/privacy.html"
+  },
+  {
+    "app": "My Inventory by Pinataro",
+    "slug": "my-inventory",
+    "support_url": "https://tompinataro.github.io/app-support/my-inventory/",
+    "privacy_url": "https://tompinataro.github.io/app-support/my-inventory/privacy.html"
+  },
+  {
+    "app": "Day of Our Lives",
+    "slug": "day-of-our-lives",
+    "support_url": "https://tompinataro.github.io/app-support/day-of-our-lives/",
+    "privacy_url": "https://tompinataro.github.io/app-support/day-of-our-lives/privacy.html"
+  },
+  {
+    "app": "Share My Prayer",
+    "slug": "share-my-prayer",
+    "support_url": "https://tompinataro.github.io/app-support/share-my-prayer/",
+    "privacy_url": "https://tompinataro.github.io/app-support/share-my-prayer/privacy.html"
+  }
+]
